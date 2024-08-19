@@ -36,9 +36,8 @@ A classic Snake game implemented in Java using Swing.
 
 ### Gameplay 
 
-<a href="/src/files/Screen Recording 2024-08-20 at 1.10.48 AM.mov" target="_blank">
-    <img src="/src/files/Screenshot 2024-08-20 at 1.09.59 AM.png" alt="Watch this video" style="width:100%;max-width:600px;"/>
-</a>
+[Watch this video](https://watchthisgameplayofsnakegame.netlify.app)
+
 
 
 
