@@ -41,7 +41,6 @@ A classic Snake game implemented in Java using Swing.
 
 
 
-
 ## Code Structure
 -----------------
 
