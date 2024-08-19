@@ -25,22 +25,23 @@ A classic Snake game implemented in Java using Swing.
 
 ### Gameplay Screenshot
 
-![Gameplay Screenshot](screenshots/gameplay.png)
+![Gameplay Screenshot](/src/files/Screenshot%202024-08-20%20at%201.10.22%20AM.png)
 
 ### Game Over Screenshot
 
-![Game Over Screenshot](screenshots/gameover.png)
+![Game Over Screenshot](src/files/Screenshot%202024-08-20%20at%201.09.59%20AM.png)
 
 ## Videos
 ---------
 
-### Gameplay Video
+### Gameplay 
 
-[![Gameplay Video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
+<a href="/src/files/Screen Recording 2024-08-20 at 1.10.48 AM.mov" target="_blank">
+    <img src="/src/files/Screenshot 2024-08-20 at 1.09.59 AM.png" alt="Watch this video" style="width:100%;max-width:600px;"/>
+</a>
 
-### Game Over Video
 
-[![Game Over Video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
+
 
 ## Code Structure
 -----------------
